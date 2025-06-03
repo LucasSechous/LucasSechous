@@ -16,42 +16,40 @@ Soy un **estudiante de Analista Programador** de 21 años en el CEI - Claeh, Mal
 - ⚡ **Metodologías:** Scrum, Sprints, trabajo en equipo
 
 ### 💼 Mi Experiencia Profesional
-- **Especialista en Atención al Cliente y Servicios Gastronómicos**
+- **Atención al Cliente y Servicios Gastronómicos**
 - Experiencia sólida en atención personalizada y gestión de servicios
 - Habilidades desarrolladas en trabajo bajo presión y resolución de problemas
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Tecnologías que Manejo 🧠
+
+<div align="center">
 
 ### Lenguajes de Programación
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cs,java,python,javascript" />
 
 ### Desarrollo Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css" />
+<img src="https://skillicons.dev/icons?i=bootstrap" />
 
 ### Frameworks y Tecnologías
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+<img src="https://skillicons.dev/icons?i=dotnet" />
 
 ### Bases de Datos
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+<img src="[https://iconos8.es/icon/J6KcaRLsTgpZ/sql](https://iconos8.es/icons/set/sql)" width="48" height="48" alt="SQL Server" />
 
 ### Herramientas y Control de Versiones
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio" />
+
+</div>
 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TuUsuarioGitHub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuarioGitHub&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSechous&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSechous&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuUsuarioGitHub&theme=tokyonight" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasSechous&theme=tokyonight" alt="Streak Stats"/>
 </div>
 
 ## 🎯 Lo que me caracteriza
@@ -86,13 +84,19 @@ const lucas = {
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-## 🤝 Conecta conmigo
+## 🤝 Conecta conmigo 🤝
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-sechous-754747331/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sechouslucasuy@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TuUsuarioGitHub)
+<a href="https://www.linkedin.com/in/lucas-sechous-754747331/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="mailto:Sechouslucasuy@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+</a>
+<a href="https://github.com/TuUsuarioGitHub" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+</a>
 
 </div>
 
@@ -111,17 +115,3 @@ const lucas = {
 ---
 
 ⭐️ **¿Te gusta mi trabajo?** ¡Dale una estrella a mis repositorios!
-<!--
-**LucasSechous/LucasSechous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
