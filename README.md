@@ -35,10 +35,10 @@ Soy un **estudiante de Analista Programador** de 21 años en el CEI - Claeh, Mal
 <img src="https://skillicons.dev/icons?i=dotnet" />
 
 ### Bases de Datos
-<img src="[https://iconos8.es/icon/J6KcaRLsTgpZ/sql](https://iconos8.es/icons/set/sql)" width="48" height="48" alt="SQL Server" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 
 ### Herramientas y Control de Versiones
-<img src="https://skillicons.dev/icons?i=git,github,visualstudio" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,notion,figma" />
 
 </div>
 
