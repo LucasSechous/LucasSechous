@@ -79,9 +79,10 @@ const lucas = {
 - **Trabajo en Equipo:** Disfruto trabajar en equipos organizados
 - **Crecimiento:** Aprendo de mis errores y busco crecer con cada experiencia
 
-## 📈 Actividad Reciente
+<!--## 📈 Actividad Reciente-->
 
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 ## 🤝 Conecta conmigo 🤝
@@ -94,7 +95,7 @@ const lucas = {
 <a href="mailto:Sechouslucasuy@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
 </a>
-<a href="https://github.com/TuUsuarioGitHub" target="_blank">
+<a href="https://github.com/LucasSechous" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </a>
 
@@ -103,7 +104,7 @@ const lucas = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TuUsuarioGitHub&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=LucasSechous&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 <div align="center">
