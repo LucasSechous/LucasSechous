@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mí
 
-Soy un **estudiante de Analista Programador** de 21 años en el CEI - Claeh, Maldonado, Uruguay. Actualmente curso el tercer semestre de cuatro y me apasiona el mundo de la computación, especialmente el desarrollo de proyectos tanto individuales como en equipo.
+Soy un **estudiante de Analista Programador** de 22 años en el CEI - Claeh, Maldonado, Uruguay. Actualmente curso el tercer semestre de cuatro y me apasiona el mundo de la computación, especialmente el desarrollo de proyectos tanto individuales como en equipo.
 
 - 🔭 **Actualmente:** Profesional en servicios de atención al cliente y hospitalidad
 - 🌱 **Buscando oportunidades como:** Developer Junior o Trainee
